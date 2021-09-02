@@ -1,0 +1,23 @@
+{
+  "name": "api-digital-inovation",
+  "version": "1.0.0",
+  "description": "Curso Digital Inovation",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianojunnior17/Api-digital-inovation.git"
+  },
+  "author": "Luciano Lima Jr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianojunnior17/Api-digital-inovation/issues"
+  },
+  "homepage": "https://github.com/lucianojunnior17/Api-digital-inovation#readme"
+}
